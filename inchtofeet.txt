@@ -1,3 +1,0 @@
-var inch = 156;
-console.log(inch);
-console.log(inch);
